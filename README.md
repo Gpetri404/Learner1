@@ -1,6 +1,6 @@
 # My First Git and GitHub Learning Repository
 
-Repository created to practice the first commands of Git and comprehend the workflow with GitHub Desktop guided by Guanabara´s course
+Repository created to practice the first commands of Github Desktop and comprehend the workflow with GitHub Desktop guided by Guanabara´s course
 
 ## 🎯 Goals
 * Learn to clone local repositories.
